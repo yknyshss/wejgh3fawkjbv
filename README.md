@@ -7,7 +7,7 @@ Whole Internet Provissioning is building a customer to market connection service
 
 ## Business Requirements
 * Plan for a global footprint.
-* maximum uptime - downtime is loss of customers.
+* Maximum uptime - downtime is loss of customers.
 * Increase efficiency of the cloud resources we use.
 * Reduce latency to all customers.
 * GDPR compilince.
@@ -19,6 +19,6 @@ Whole Internet Provissioning is building a customer to market connection service
 * Rapid Releases.
 
 ### Requirements for Data Layer
-* High availability and resiliency
-* Maintenance
-* Security
+* High availability and resiliency.
+* Maintenancem.
+* Securit.
