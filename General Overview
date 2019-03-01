@@ -1,0 +1,9 @@
+Cross Region DNS and CDN for static content caching and quick delivery
+
+Separate Virtual networks for test and prod environment
+
+Cross-Region SSL load balancer accross app servers
+
+Auto Scaling group on application servers
+
+Multi Region Cassandra cluster (On internal subnet with NAT for internet access)
